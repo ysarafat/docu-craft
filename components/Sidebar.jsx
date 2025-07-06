@@ -25,12 +25,12 @@ export default function Sidebar({ docs }) {
                   <span className="truncate"> {rootNode?.title}</span>
                 </Link>
                 {nonRoots[rootNode.id] && (
-                  <ul role="list" className="border-l border-transparent">
+                  <ul role="list" className="border-l border-transparent ">
                     {nonRoots[rootNode.id]?.map((subRoot) => (
                       <li key={subRoot?.id} className="relative">
                         <Link
                           aria-current="page"
-                          className="flex justify-between gap-2 py-1 pl-4 pr-3 text-sm text-zinc-900 transition dark:text-white"
+                          className="flex justify-between gap-2 py-1 pl-6 pr-3 text-sm text-zinc-900 transition dark:text-white"
                           href={`/docs/${rootNode.id}/${subRoot.id}`}
                         >
                           <span className="truncate"> {subRoot?.title}</span>
