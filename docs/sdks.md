@@ -3,7 +3,7 @@ title: "SDKs"
 date: "2024-03-12"
 parent: null
 order: 3
-author: Brian C
+author: Brian
 category: sdk
 tags: ["technology"]
 ---

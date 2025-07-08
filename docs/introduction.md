@@ -3,7 +3,7 @@ title: "Introduction"
 date: "2025-07-05"
 parent: null
 order: 1
-author: "Yeasir Arafat"
+author: "Yeasir"
 category: "General"
 tags: ["intro", "getting-started"]
 ---

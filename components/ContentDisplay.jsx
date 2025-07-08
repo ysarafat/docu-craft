@@ -6,7 +6,7 @@ export default async function ContentDisplay({ id }) {
   const documentContent = await getDocumentContent(id);
 
   return (
-    <article class="prose dark:prose-invert">
+    <article className="prose dark:prose-invert">
       <h1>{documentContent?.title}</h1>
       <div>
         <span>Publish on: {documentContent.date}</span> by{" "}

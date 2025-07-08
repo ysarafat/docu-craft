@@ -3,7 +3,7 @@ title: "Analysis"
 date: "2024-03-12"
 parent: null
 order: 4
-author: Brian C
+author: Brian
 category: analytics
 tags: ["technology", "analytics"]
 ---

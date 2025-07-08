@@ -2,7 +2,7 @@
 title: "Test"
 date: "2024-03-01"
 parent: introduction
-author: Brian C
+author: Brian
 category: testing
 tags: ["test", "technology"]
 ---
